@@ -1,2 +1,5 @@
 # skyscanner-client
-Client for Skyscanner Flights API
+
+## Description
+
+Java client for Skyscanner Flights API
